@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChooseAll",
+            "request": "launch",
+            "mainClass": "ChooseAll"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fish",
+            "request": "launch",
+            "mainClass": "Fish"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestClass01",
+            "request": "launch",
+            "mainClass": "TestClass01"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestClass",
+            "request": "launch",
+            "mainClass": "TestClass"
+        }
+    ]
+}
